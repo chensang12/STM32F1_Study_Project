@@ -1,0 +1,7 @@
+{
+    "commentTranslate.targetLanguage": "zh-CN",
+    "files.associations": {
+        "stm32f10x.h": "c",
+        "MPU6050.C": "cpp"
+    }
+}
